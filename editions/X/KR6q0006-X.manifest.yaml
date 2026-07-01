@@ -1,0 +1,62 @@
+canonical_identifier: bkk:krp/KR6q0006/X/v1
+canonical_location: https://kanripo.org/bkk/KR6q0006/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 建中靖國續燈錄目錄
+  identifiers:
+    krp: KR6q0006
+    cbeta: X78n1555
+    cbeta_old_id: X78n1555
+    authorityid: CA0001551
+    json_key: X1555
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X78/X78n1555.xml
+    old_id: X78n1555
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0006_000-X.yaml, hash: 'sha256:10f8e26f0f6fe5d359decde5f4199c96b5fc5aae0995ae7afaa104d984a5074a'}
+  - {seq: 1, filename: KR6q0006_001-X.yaml, hash: 'sha256:05591d944edf0f8075698b14b42cc536abc8048d51d113ef9c2bc9d2786a9965'}
+  - {seq: 2, filename: KR6q0006_002-X.yaml, hash: 'sha256:235af958e3cdb9bb8c92869a4d450656db8bd38ea59298632a9404cce39002db'}
+  - {seq: 3, filename: KR6q0006_003-X.yaml, hash: 'sha256:1c9a376845c16151e629684c4705adb559e469a663c7d32e33cde599a8840e2b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0006_000-X.markers.yaml, hash: 'sha256:684e066ae654913d90aa5dc1efe74bb2cce2800f49e1c56fa087513dee561652'}
+  - {seq: 1, role: markers, filename: assets/KR6q0006_001-X.markers.yaml, hash: 'sha256:a5d6651eee82bda6d55f46ae6ea614b2a38d116546c301a68bb464a904187e2a'}
+  - {seq: 2, role: markers, filename: assets/KR6q0006_002-X.markers.yaml, hash: 'sha256:f23079d7c8e97894dc8d2a18b238d4bfe2dddf0f6a6bf2710b988db72d38c6d9'}
+  - {seq: 3, role: markers, filename: assets/KR6q0006_003-X.markers.yaml, hash: 'sha256:f8773b845d3b1172749548e061e5b469824ace6a7eee9dc31a07ea4c47ba1a5d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0006_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 7154
+  label: 建中靖國續燈錄上帙目錄　　　〔宋刻〕
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0006_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 7449
+  label: 建中靖國續燈錄中帙目錄　　　〔宋銘〕
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0006_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 6207
+  label: 建中靖國續燈錄下帙目錄　　　〔宋磻〕
+  type: juan
+  level: 1
+hash: sha256:c0cf5b04537f2c91db8e73403bf81433d723ae4e3cd4383c9d10d041a344f0bc

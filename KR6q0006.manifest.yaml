@@ -1,0 +1,66 @@
+canonical_identifier: bkk:krp/KR6q0006/v1
+canonical_location: https://kanripo.org/bkk/KR6q0006/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 建中靖國續燈錄目錄
+  identifiers:
+    alt_id:
+    - X78n1555
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X78/X78n1555.xml
+    old_id: X78n1555
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0006_000.yaml, hash: 'sha256:10f8e26f0f6fe5d359decde5f4199c96b5fc5aae0995ae7afaa104d984a5074a'}
+  - {seq: 1, filename: KR6q0006_001.yaml, hash: 'sha256:1bfbf49b72737ad84009cff7e63ca013b153eb0c5cf5a94d4376e6b16c039e57'}
+  - {seq: 2, filename: KR6q0006_002.yaml, hash: 'sha256:d63e11995d6acc2e2e4283f27208cd9a7a4ee76a5c7b8ccf8d1cf093d7524112'}
+  - {seq: 3, filename: KR6q0006_003.yaml, hash: 'sha256:15fe3303a56709b511a2dabdf527cfce9081254443a2b46638bfff1f217d3cb5'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6q0006_001.markers.yaml, hash: 'sha256:4532e9e60af6d6fa246423add655860057f46dfd0bc739b436e1e8dd6b4ff8c6'}
+  - {seq: 2, role: markers, filename: assets/KR6q0006_002.markers.yaml, hash: 'sha256:fed63b8c3ae75f248dd73a2bef06936344d525269538d6a779482e175e50f51e'}
+  - {seq: 3, role: markers, filename: assets/KR6q0006_003.markers.yaml, hash: 'sha256:2c4760c0d605e40937ecb05a02d250dde8d4a06fbcb328539f1a6baa1146a624'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0006_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 7154
+  label: 建中靖國續燈錄上帙目錄　　　〔宋刻〕
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0006_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 7449
+  label: 建中靖國續燈錄中帙目錄　　　〔宋銘〕
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0006_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 6207
+  label: 建中靖國續燈錄下帙目錄　　　〔宋磻〕
+  type: juan
+  level: 1
+hash: sha256:56271c092e18bcbd82cda5fc9536f8a78e73f8d474c2bc93dc5f308d30ab428b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

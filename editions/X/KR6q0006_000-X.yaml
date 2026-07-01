@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0006/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 建中靖國續燈錄目錄
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X78/X78n1555.xml
+    old_id: X78n1555
+hash: sha256:10f8e26f0f6fe5d359decde5f4199c96b5fc5aae0995ae7afaa104d984a5074a
