@@ -22,13 +22,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0006_000.yaml, hash: 'sha256:10f8e26f0f6fe5d359decde5f4199c96b5fc5aae0995ae7afaa104d984a5074a'}
-  - {seq: 1, filename: KR6q0006_001.yaml, hash: 'sha256:1bfbf49b72737ad84009cff7e63ca013b153eb0c5cf5a94d4376e6b16c039e57'}
-  - {seq: 2, filename: KR6q0006_002.yaml, hash: 'sha256:d63e11995d6acc2e2e4283f27208cd9a7a4ee76a5c7b8ccf8d1cf093d7524112'}
-  - {seq: 3, filename: KR6q0006_003.yaml, hash: 'sha256:15fe3303a56709b511a2dabdf527cfce9081254443a2b46638bfff1f217d3cb5'}
+  - {seq: 1, filename: KR6q0006_001.yaml, hash: 'sha256:05591d944edf0f8075698b14b42cc536abc8048d51d113ef9c2bc9d2786a9965'}
+  - {seq: 2, filename: KR6q0006_002.yaml, hash: 'sha256:235af958e3cdb9bb8c92869a4d450656db8bd38ea59298632a9404cce39002db'}
+  - {seq: 3, filename: KR6q0006_003.yaml, hash: 'sha256:1c9a376845c16151e629684c4705adb559e469a663c7d32e33cde599a8840e2b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6q0006_001.markers.yaml, hash: 'sha256:4532e9e60af6d6fa246423add655860057f46dfd0bc739b436e1e8dd6b4ff8c6'}
-  - {seq: 2, role: markers, filename: assets/KR6q0006_002.markers.yaml, hash: 'sha256:fed63b8c3ae75f248dd73a2bef06936344d525269538d6a779482e175e50f51e'}
-  - {seq: 3, role: markers, filename: assets/KR6q0006_003.markers.yaml, hash: 'sha256:2c4760c0d605e40937ecb05a02d250dde8d4a06fbcb328539f1a6baa1146a624'}
+  - {seq: 0, role: markers, filename: assets/KR6q0006_000.markers.yaml, hash: 'sha256:f2fd93452de517bd02527a0550e46f46e3bbffefc8fff8d3ab6ecc5a20035763'}
+  - {seq: 1, role: markers, filename: assets/KR6q0006_001.markers.yaml, hash: 'sha256:61467c498d6c70175e0c7c3713249db58d6addd94bf7b56dd74a0327bc716d68'}
+  - {seq: 2, role: markers, filename: assets/KR6q0006_002.markers.yaml, hash: 'sha256:cdef420916431f57d50e71276ba86d10db29daddd7669d16455497f26de39f66'}
+  - {seq: 3, role: markers, filename: assets/KR6q0006_003.markers.yaml, hash: 'sha256:45252f6abed4c0b139ca4bf7ff03e865543dcacbdca7aaa57ffb140c6e7c736c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -60,7 +61,4 @@ table_of_contents:
   label: 建中靖國續燈錄下帙目錄　　　〔宋磻〕
   type: juan
   level: 1
-hash: sha256:56271c092e18bcbd82cda5fc9536f8a78e73f8d474c2bc93dc5f308d30ab428b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e8f4914c958fa389c8a3ad86f3ba62f4e870946c3a6109118f7014c38500658b
